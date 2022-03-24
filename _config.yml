@@ -1,4 +1,4 @@
-remote_theme: barryclark/jekyll-now@1.2.0
+remote_theme: ahmadajmi/type 
 plugins:
 - jekyll-remote-theme
 

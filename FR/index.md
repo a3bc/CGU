@@ -10,7 +10,7 @@
 
 **SOMMAIRE**
 
-[1. Préambule](#1.préambule)
+[1. Préambule](#1)
 
 [2. Définitions](#2.définitions)
 

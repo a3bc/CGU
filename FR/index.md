@@ -14,7 +14,7 @@
 
 [2. Définitions](#définitions)
 
-[3. Objet [5]](#objet)
+[3. Objet](#objet)
 
 [4. Acceptation et opposabilité des CGU](#acceptation-et-opposabilité-des-cgu)
 
@@ -74,7 +74,7 @@
 
 [14.4 Nullité](#nullité)
 
-[14.5 Intégralité](#intégralité)](#intégralité)
+[14.5 Intégralité](#intégralité)
 
 [14.6 Preuve-Notification](#preuve-notification)
 
@@ -82,7 +82,7 @@
 
 [15. Loi applicable](#loi-applicable)
 
-# Préambule 
+# 1. Préambule 
 
 1.  L'Application mobile TRUST ME est éditée par la société A3BC Group
     société par actions simplifiée au capital de 718 503 euros,
@@ -101,7 +101,7 @@
     l'utilisation de l'Application nécessite le respect de l'ensemble
     des prescriptions définies au sein des présentes.
 
-# Définitions 
+# 2. Définitions 
 
 4.  Les termes débutant par une majuscule au sein des présentes
     conditions générales d'utilisation (« CGU ») de l'Application,
@@ -171,14 +171,14 @@
 -   « Utilisateur » : désigne une personne physique accédant à
     l'Application sur son mobile.
 
-# Objet 
+# 3. Objet 
 
 5.  Les présentes conditions générales d'utilisation ont pour objet de
     définir les conditions d'accès et d'utilisation de l'Application.
 
-# Acceptation et opposabilité des CGU
+# 4. Acceptation et opposabilité des CGU
 
-## Acceptation
+## 4.1 Acceptation
 
 6.  L'Utilisateur peut utiliser l'Application sous réserve de
     l'acceptation préalable des présentes CGU.
@@ -194,7 +194,7 @@
     l'Utilisateur a pris connaissance desdites dispositions et vaut
     acceptation des présentes.
 
-## Modification
+## 4.2 Modification
 
 9.  Les CGU sont susceptibles d'être modifiées ou aménagées à tout
     moment par la société A3BC Group afin de faire évoluer
@@ -207,7 +207,7 @@
 11. Les CGU figurant en lien depuis l'Application prévalent sur toute
     version imprimée de date antérieure.
 
-# Compatibilité matérielle 
+# 5. Compatibilité matérielle 
 
 12. Avant toute utilisation de l'Application, l'Utilisateur est invité à
     vérifier la compatibilité de son matériel avec l'Application.
@@ -215,9 +215,9 @@
 13. A ce jour, l'Application TRUST ME est compatible avec le logiciel
     d'exploitation Android 12 et ses versions postérieures.
 
-# Conditions d'accès 
+# 6. Conditions d'accès 
 
-## Accès général
+## 6.1 Accès général
 
 14. L'accès à l'Application mobile est libre et gratuit pour tout
     Utilisateur disposant d\'un accès à internet ou à un réseau mobile.
@@ -229,7 +229,7 @@
 
 15. Le service est accessible 24h/24 et 7 jours/7.
 
-## Accessibilité de l'Application
+## 6.2 Accessibilité de l'Application
 
 16. Toutefois, la société A3BC Group se réserve le droit, sans préavis,
     ni indemnité, de fermer temporairement ou définitivement l'accès
@@ -252,7 +252,7 @@
     l'Utilisateur peut s'adresser au service client de la société A3BC
     Group pour obtenir des informations : <contact.trustme@a3bc.org>.
 
-## Création d'un compte par l'Utilisateur 
+## 6.3 Création d'un compte par l'Utilisateur 
 
 20. Pour que l'Utilisateur puisse créer un compte, il doit être une
     personne physique majeure.
@@ -279,7 +279,7 @@
 22. L'Utilisateur s'engage à ne renseigner que des informations le
     concernant, complètes, exactes et à jour.
 
-## Identifiant et mot de passe
+## 6.4 Identifiant et mot de passe
 
 23. L'accès au compte est conditionné par la saisie de l'identifiant.
 
@@ -322,9 +322,9 @@
     sécurité, il doit alerter immédiatement la société A3BC Group via le
     formulaire contact figurant dans l'application.
 
-# Description de l'Application 
+# 7. Description de l'Application 
 
-## L'Application 
+## 7.1 L'Application 
 
 32. L'Application permet à l'Utilisateur de conserver dans un espace
     personnel des documents et des justificatifs de toute nature tels
@@ -337,15 +337,15 @@
     téléphone mobile (à l'exception, cependant, du gabarit de
     l'empreinte digitale de quatre doigts d'une main)..
 
-## Les services associés 
+## 7.2 Les services associés 
 
 34. L'Application permet de capturer l'image des quatre doigts d'une
     main de l'Utilisateur et de calculer le gabarit de l'empreinte
     digitale de ces quatre doigts.
 
-# Utilisation de l'Application 
+# 8. Utilisation de l'Application 
 
-## Licence d'utilisation 
+## 8.1 Licence d'utilisation 
 
 35. La société A3BC Group ou ses ayants droits accorde à l'Utilisateur
     un simple droit d'utilisation de l'Application, des mises à jour et
@@ -366,7 +366,7 @@
     licenciés à la société A3BC Group ou ses ayants droits afin de les
     incorporer dans l'Application directement et/ou indirectement.
 
-## Utilisation du compte par l'Utilisateur 
+## 8.2 Utilisation du compte par l'Utilisateur 
 
 37. L'accès et l'utilisation du compte de l'Utilisateur sont strictement
     personnels et sont réservés au seul Utilisateur titulaire du compte.
@@ -399,7 +399,7 @@
 43. Si l'Utilisateur accède à des informations sur son compte et les
     utilise, il est informé qu'il agit sous sa seule responsabilité.
 
-## Droit d'utilisation des documents conservés par l'Application 
+## 8.3 Droit d'utilisation des documents conservés par l'Application 
 
 44. L'Utilisateur consent à un droit d'utilisation de la société A3BC
     Group sur l'ensemble des documents téléchargés et conservés sur
@@ -421,7 +421,7 @@
     consentement à l'usage du gabarit d'empreintes peut entraîner
     l'impossibilité de conclure la transaction concernée.
 
-## Obligations de l'Utilisateur 
+## 8.4 Obligations de l'Utilisateur 
 
 46. L'Utilisateur s'engage à n'utiliser l'Application que dans les
     seules conditions définies aux présentes et en outre :
@@ -455,9 +455,9 @@
     son Application distribuée par A3BC Group depuis les plateformes
     légales.
 
-# Propriété intellectuelle 
+# 9. Propriété intellectuelle 
 
-## Eléments de la société A3BC Group 
+## 9.1 Eléments de la société A3BC Group 
 
 50. Les présentes conditions générales d'utilisation n'emportent aucune
     cession d'aucune sorte de droits de propriété intellectuelle sur les
@@ -480,7 +480,7 @@
     acte susceptible de porter atteinte directement ou indirectement aux
     droits de propriété intellectuelle de la société A3BC Group.
 
-## Eléments des tiers 
+## 9.2 Eléments des tiers 
 
 54. Les éléments appartenant à des tiers, tels que des extraits de
     films, marques, logo, images, textes, sons, sans que cette liste ne
@@ -496,7 +496,7 @@
 56. L\'Utilisateur s\'engage à respecter l\'intégralité des droits de
     tiers, dont les contenus sont présents sur l'Application.
 
-# Liens vers d'autres applications et site web 
+# 10. Liens vers d'autres applications et site web 
 
 57. L'Application peut contenir des hyperliens donnant accès à des
     applications et sites web de tiers.
@@ -512,7 +512,7 @@
     Group en cas de perte ou de dommage de quelque sorte que ce soit du
     fait de l'activation de ces liens hypertextes.
 
-# Responsabilité de la société A3BC Group
+# 11. Responsabilité de la société A3BC Group
 
 60. La société A3BC Group est responsable de tout dommage direct et
     prévisible causé au titre d'une utilisation conforme de
@@ -565,7 +565,7 @@
 
 -   de l'atteinte aux droits des Utilisateurs de manière générale.
 
-# Données à caractère personnel 
+# 12. onnées à caractère personnel 
 
 62. Conformément à la Règlementation relative à la protection des
     données à caractère personnel, l'Utilisateur est informé que la
@@ -599,7 +599,7 @@
 
 67. des données.
 
-# Sécurité 
+# 13. Sécurité 
 
 68. La société A3BC Group fait ses meilleurs efforts, conformément aux
     règles de l'art, pour sécuriser le service eu égard à la complexité
@@ -624,14 +624,14 @@
     façon à protéger ses propres contenus, données et/ou logiciels de la
     contamination par des éventuels virus sur le réseau de l'internet.
 
-# Dispositions générales 
+# 14. Dispositions générales 
 
-## Bonne foi 
+## 14.1 Bonne foi 
 
 74. Les Parties conviennent d'exécuter leurs obligations avec une
     parfaite bonne foi.
 
-## Tolérance 
+## 14.2 Tolérance 
 
 75. Les Parties conviennent réciproquement que le fait pour l'une des
     Parties de tolérer une situation n'a pas pour effet d'accorder à
@@ -640,14 +640,14 @@
 76. De plus, une telle tolérance ne peut être interprétée comme une
     renonciation à faire valoir les droits en cause.
 
-## Titres
+## 14.3 Titres
 
 77. En cas de difficultés d'interprétation résultant d'une contradiction
     entre l'un quelconque des titres figurant en tête des clauses et
     l'une quelconque des clauses, les titres seront déclarés
     inexistants.
 
-## Nullité
+## 14.4 Nullité
 
 78. Si une ou plusieurs stipulations des présentes sont tenues pour non
     valides ou déclarées comme telles en application d'une loi, d'un
@@ -655,12 +655,12 @@
     jugée d'une juridiction compétente, les autres stipulations
     garderont toute leur force et leur portée.
 
-## Intégralité
+## 14.5 Intégralité
 
 79. Les présentes conditions d'utilisation expriment l'intégralité des
     obligations des Parties.
 
-## Preuve-Notification
+## 14.6 Preuve-Notification
 
 80. Toute notification ou communication entre l'Utilisateur et la
     société A3BC Group peut être réalisée par tout moyen électronique.
@@ -673,12 +673,12 @@
 81. L'archivage des présentes CGU doit est effectué sur un support
     fiable et durable pouvant être produit à titre de preuve.
 
-## Langue
+## 14.7 Langue
 
 82. Les conditions générales d'utilisation sont rédigées en langue
     française.
 
-# Loi applicable 
+# 15 Loi applicable 
 
 83. Sauf disposition légale contraire et impérative, les présentes
     conditions générales d'utilisation sont soumises à la loi française.

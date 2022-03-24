@@ -98,6 +98,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 1rem;
   margin-bottom: 3rem;
   border-bottom: 1px solid #eee;
+  display: none;
 }
 .masthead-title {
   margin-top: 0;
@@ -221,6 +222,7 @@ a.sidebar-nav-item:focus {
   background-color: #fff;
   border-radius: .25rem;
   cursor: pointer;
+  display: none;
 }
 
 .sidebar-toggle::before {

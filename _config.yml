@@ -1,2 +1,4 @@
-theme: jekyll-theme-tactile
+remote_theme: poole/lanyon
+plugins:
+- jekyll-remote-theme
 markdown: kramdown

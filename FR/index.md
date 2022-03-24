@@ -6,7 +6,6 @@
 
 # **Application mobile**
 
-(hash mark)(space)(space)
 
 **SOMMAIRE**
 
@@ -18,43 +17,43 @@
 
 [4. Acceptation et opposabilité des CGU](#4-acceptation-et-opposabilité-des-cgu)
 
-[4.1 Acceptation](#41-acceptation)
+    [4.1 Acceptation](#41-acceptation)
 
-[4.2 Modification](#42-modification)
+    [4.2 Modification](#42-modification)
 
 [5. Compatibilité matérielle](#5-compatibilité-matérielle)
 
 [6. Conditions d'accès](#6-conditions-daccès)
 
-[6.1 Accès général](#61-accès-général)
+    [6.1 Accès général](#61-accès-général)
 
-[6.2 Accessibilité de l'Application](#62-accessibilité-de-lapplication)
+    [6.2 Accessibilité de l'Application](#62-accessibilité-de-lapplication)
 
-[6.3 Création d'un compte par l'Utilisateur](#63-création-dun-compte-par-lutilisateur)
+    [6.3 Création d'un compte par l'Utilisateur](#63-création-dun-compte-par-lutilisateur)
 
-[6.4 Identifiant et mot de passe](#64-identifiant-et-mot-de-passe)
+    [6.4 Identifiant et mot de passe](#64-identifiant-et-mot-de-passe)
 
 [7. Description de l'Application](#7-description-de-lapplication)
 
-[7.1 L'Application](#71-lapplication)
+    [7.1 L'Application](#71-lapplication)
 
-[7.2 Les services associés](#72-les-services-associés)
+    [7.2 Les services associés](#72-les-services-associés)
 
 [8. Utilisation de l'Application](#8-utilisation-de-lapplication)
 
-[8.1 Licence d'utilisation](#81-licence-dutilisation)
+    [8.1 Licence d'utilisation](#81-licence-dutilisation)
 
-[8.2 Utilisation du compte par l'Utilisateur](#82-utilisation-du-compte-par-lutilisateur)
+    [8.2 Utilisation du compte par l'Utilisateur](#82-utilisation-du-compte-par-lutilisateur)
 
-[8.3 Droit d'utilisation des documents conservés par l'Application](#83-droit-dutilisation-des-documents-conservés-par-lapplication)
+    [8.3 Droit d'utilisation des documents conservés par l'Application](#83-droit-dutilisation-des-documents-conservés-par-lapplication)
 
-[8.4 Obligations de l'Utilisateur](#84-obligations-de-lutilisateur)
+    [8.4 Obligations de l'Utilisateur](#84-obligations-de-lutilisateur)
 
 [9. Propriété intellectuelle](#9-propriété-intellectuelle)
 
-[9.1 Eléments de la société A3BC Group](#91-eléments-de-la-société-a3bc-group)
+    [9.1 Eléments de la société A3BC Group](#91-eléments-de-la-société-a3bc-group)
 
-[9.2 Eléments des tiers](#92-eléments-des-tiers)
+    [9.2 Eléments des tiers](#92-eléments-des-tiers)
 
 [10. Liens vers d'autres applications et site web](#10-liens-vers-dautres-applications-et-site-web)
 
@@ -66,19 +65,19 @@
 
 [14. Dispositions générales](#14-dispositions-générales)
 
-[14.1 Bonne foi](#141-bonne-foi)
+    [14.1 Bonne foi](#141-bonne-foi)
 
-[14.2 Tolérance](#142-tolérance)
+    [14.2 Tolérance](#142-tolérance)
 
-[14.3 Titres](#143-titres)
+    [14.3 Titres](#143-titres)
 
-[14.4 Nullité](#144-nullité)
+    [14.4 Nullité](#144-nullité)
 
-[14.5 Intégralité](#145-intégralité)
+    [14.5 Intégralité](#145-intégralité)
 
-[14.6 Preuve-Notification](#146-preuve-notification)
+    [14.6 Preuve-Notification](#146-preuve-notification)
 
-[14.7 Langue](#147-langue)
+    [14.7 Langue](#147-langue)
 
 [15. Loi applicable](#15-loi-applicable)
 

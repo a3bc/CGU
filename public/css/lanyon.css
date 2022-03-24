@@ -44,6 +44,10 @@ html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
 }
 
+h1 {
+  margin-bottom: 1.25rem;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
@@ -310,6 +314,10 @@ a.sidebar-nav-item:focus {
 }
 
 /* Blog post or page title */
+.page-title {
+  display: none;
+}
+
 .page-title,
 .post-title,
 .post-title a {

@@ -12,7 +12,7 @@
 
 [2. Definitions](#2-definitions)
 
-[3. Purpose [5](#purpose)](#purpose)
+[3. Purpose](#purpose)
 
 [4. Acceptance and enforceability of the terms of use](#4-acceptance-and-enforceability-of-the-terms-of-use)
 

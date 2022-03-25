@@ -425,11 +425,11 @@
 46. L'Utilisateur s'engage à n'utiliser l'Application que dans les
     seules conditions définies aux présentes et en outre :
 
-> \- à ne pas détourner l'utilisation de l'Application à des fins
-> personnelles publicitaires ou de vente de produits ;
->
-> \- à ne commettre aucun acte de contrefaçon, à ne pas reproduire,
-> télécharger, représenter, modifier, tout ou partie de l'Application ;
+-   à ne pas détourner l'utilisation de l'Application à des fins
+    personnelles publicitaires ou de vente de produits ;
+    
+-   à ne commettre aucun acte de contrefaçon, à ne pas reproduire,
+    télécharger, représenter, modifier, tout ou partie de l'Application ;
 
 -   à ne pas entraver ou altérer le fonctionnement de l'Application ;
 
@@ -564,7 +564,7 @@
 
 -   de l'atteinte aux droits des Utilisateurs de manière générale.
 
-# 12. onnées à caractère personnel 
+# 12. Données à caractère personnel 
 
 62. Conformément à la Règlementation relative à la protection des
     données à caractère personnel, l'Utilisateur est informé que la
@@ -595,8 +595,6 @@
     Utilisateurs sont invités à se reporter à la Politique de protection
     des données personnelles (LIEN VERS LA POLITIQUE DE PROTECTION DES
     DONNEES).
-
-67. des données.
 
 # 13. Sécurité 
 

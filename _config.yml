@@ -4,3 +4,5 @@ plugins:
 markdown: kramdown
 kramdown:
   input: GFM
+  
+encoding: utf-8

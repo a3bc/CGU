@@ -5,8 +5,4 @@ markdown: kramdown
 kramdown:
   input: GFM
   
-url: "https://a3bc.github.io"
-plugins:
-  - jekyll-sitemap
-  
 encoding: utf-8

@@ -4,11 +4,8 @@ plugins:
 markdown: kramdown
 kramdown:
   input: GFM
+  
 plugins:
-  - jekyll-sitemap
-defaults:
- -
-   scope:
-     path: "*"
-   values:
-     sitemap: false
+    - jekyll-sitemap
+
+encoding: utf-8

@@ -74,7 +74,7 @@
 
 [14.5 Entire agreement](#145-entire-agreement)
 
-[14.6 Evidence --- Notices](#146-evidence)
+[14.6 Evidence --- Notices](#146-evidence-and-notices)
 
 [14.7 Language](#147-language)
 
@@ -596,7 +596,7 @@ of use.
 1\. These terms of use constitute the entire agreement between the
     Parties.
 
-## 14.6 Evidence --- Notices
+## 14.6 Evidence and Notices
 
 1\. All notices or communications between you and A3BC Group may be made
     by any electronic means. As a result, you acknowledge that you are

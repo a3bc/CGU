@@ -101,7 +101,7 @@
     des prescriptions définies au sein des présentes.
 
 # 2. Définitions 
-
+{:start="4"}
 4.  Les termes débutant par une majuscule au sein des présentes
     conditions générales d'utilisation (« CGU ») de l'Application,
     indifféremment employés au singulier ou au pluriel, auront la

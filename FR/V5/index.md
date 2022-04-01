@@ -31,7 +31,9 @@
 
 [6.3 Création d'un compte par l'Utilisateur](#63-création-dun-compte-par-lutilisateur)
 
-[6.4 Identifiant et mot de passe](#64-identifiant-et-mot-de-passe)
+[6.4 Création d’une identité numérique de l’Utilisateur](#64-creation-d-une-identite-numerique-de-l-utilisateur)
+
+[6.5 Identifiant et mot de passe](#65-identifiant-et-mot-de-passe)
 
 [7. Description de l'Application](#7-description-de-lapplication)
 
@@ -83,7 +85,7 @@
 
 # 1. Préambule 
 
-1\.  L'Application mobile TRUST ME est éditée par la société A3BC Group
+1\.  L'Application mobile TRUSTME est éditée par la société A3BC Group
     société par actions simplifiée au capital de 718 503 euros,
     immatriculée au Registre du Commerce et des Sociétés de Paris, sous
     le numéro 839 604 576, dont le siège social est situé 15 rue La
@@ -129,7 +131,7 @@
         prescriptions des présentes CGU.
 
 -   « Application » ou « Application mobile » : désigne l'application
-    proposée sous le nom TRUST ME éditée et fournie par A3BC Group,
+    proposée sous le nom TRUSTME éditée et fournie par A3BC Group,
     donnant accès aux services, et qui est disponible gratuitement dans
     le « Google Play Store » de Google, pour être téléchargée par
     l'Utilisateur sur son terminal Android. L'Application comprend
@@ -161,7 +163,7 @@
     téléphone mobile (« login ») de l'Utilisateur, en combinaison avec
     un moyen d'authentification tel qu'un mot de passe ou un élément de
     biométrie, permettant à l'Utilisateur d'avoir accès à l'Application
-    mobile TRUST ME, via une connexion à un réseau mobile ou au réseau
+    mobile TRUSTME, via une connexion à un réseau mobile ou au réseau
     internet.
 
 -   « Partie » : désigne indifféremment l'Utilisateur, la société A3BC
@@ -211,7 +213,7 @@
 1\. Avant toute utilisation de l'Application, l'Utilisateur est invité à
     vérifier la compatibilité de son matériel avec l'Application.
 
-2\. A ce jour, l'Application TRUST ME est compatible avec le logiciel
+2\. A ce jour, l'Application TRUSTME est compatible avec le logiciel
     d'exploitation Android 12 et ses versions postérieures.
 
 # 6. Conditions d'accès 
@@ -277,8 +279,18 @@
 
 3\. L'Utilisateur s'engage à ne renseigner que des informations le
     concernant, complètes, exactes et à jour.
+    
+## 6.4 Création d’une identité numérique de l’Utilisateur
 
-## 6.4 Identifiant et mot de passe
+1\. L’Utilisateur est informé de ce qu’un contrôle d’identité, réalisé par un prestataire de service de vérification
+d’identité, peut être réalisé par la société A3BC Group dès que l’Utilisateur choisit de conserver dans son espace
+personnel des documents justificatifs d’identité tels que copies de carte nationale d’identité, de passeport ou de carte de
+séjour.
+
+2\. Si ce contrôle d’identité, dont l’objectif est de valider l’identité numérique que se crée l’Utilisateur, 
+    fait apparaître des différences avec les informations personnelles que ce dernier a saisies dans l’Application,             la société A3BC Group l’en informe afin qu’il puisse prendre connaissance de ces écarts et qu’il procède                   aux modifications nécessaires dans l’Application. Le cas échéant, il peut également utiliser le formulaire de               contact si les écarts identifiés ne lui semblent pas pertinents.
+
+## 6.5 Identifiant et mot de passe
 
 1\. L'accès au compte est conditionné par la saisie de l'identifiant.
 

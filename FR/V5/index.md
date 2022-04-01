@@ -31,7 +31,7 @@
 
 [6.3 Création d'un compte par l'Utilisateur](#63-création-dun-compte-par-lutilisateur)
 
-[6.4 Création d’une identité numérique de l’Utilisateur](#64-creation-d-une-identite-numerique-de-l-utilisateur)
+[6.4 Création d’une identité numérique de l’Utilisateur](#64-creation-dune-identite-numerique-de-lutilisateur)
 
 [6.5 Identifiant et mot de passe](#65-identifiant-et-mot-de-passe)
 

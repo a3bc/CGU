@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 1rem;
 }
 h2 {
   margin-top: 1rem;
@@ -106,7 +106,7 @@ h4, h5, h6 {
 /* Body text */
 p {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 0em;
 }
 
 strong {
@@ -327,6 +327,10 @@ tbody tr:nth-child(odd) th {
  * Each post is wrapped in `.post` and is used on default and post layouts. Each
  * page is wrapped in `.page` and is only used on the page layout.
  */
+
+ .page {
+   font-size: 0.5em;
+ }
 
 .page,
 .post {

@@ -230,7 +230,7 @@ of use.
 
 4\. In case of interruption or unavailability of the Application, you
     can contact A3BC Group's support customer service for information:
-    <contact.trustme@a3bc.org>.
+    contact.trustme@a3bc.org.
 
 ## 6.3 Creation of an account by the User 
 

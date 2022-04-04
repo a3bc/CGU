@@ -2,7 +2,7 @@
 
 # **A3BC Group**
 
-# **Conditions générales d'utilisation**
+# **Conditions Générales d'Utilisation**
 
 # **Application mobile**
 

@@ -251,7 +251,7 @@
 
 4\. En cas d'interruption ou d'impossibilité d'utiliser l'Application,
     l'Utilisateur peut s'adresser au service client de la société A3BC
-    Group pour obtenir des informations : <contact.trustme@a3bc.org>.
+    Group pour obtenir des informations : contact.trustme@a3bc.org.
 
 ## 6.3 Création d'un compte par l'Utilisateur 
 

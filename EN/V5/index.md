@@ -1,7 +1,7 @@
 
 # **A3BC Group**
 
-# **Terms of use**
+# **Terms of Use**
 
 # **Mobile Application**
 

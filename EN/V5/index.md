@@ -1,12 +1,14 @@
 
 # **A3BC Group**
 
-# **Terms of Use**
+[1. **Terms of Use**](#contents-terms-of-use)
+
+[1. **External Pricacy Policy**](#contents-external-privacy-policy)
 
 # **Mobile Application**
 
 
-**CONTENTS**
+## **CONTENTS TERMS OF USE**
 
 [1. Preamble](#1-preamble)
 
@@ -625,3 +627,325 @@ of use.
     JURISDICTION OF THE COURT OF APPEAL OF PARIS (FRANCE).**
 
 A3BC Group's Terms of Use, updated version: 01 04 2022.
+
+______
+
+
+## **CONTENTS EXTERNAL PRIVACY POLICY**
+
+[1. Introduction](#1-introduction)
+
+[2. Data are collected fairly and in a transparent manner](#2-data-are-collected-fairly-and-in-a-transparent-manner)
+
+[3. Data are collected for legitimate and proportionate purposes](#3-data-are-collected-for-legitimate-and-proportionate-purposes)
+
+[4. What data do we process?](#4-what-data-do-we-process?)
+
+[5. What are the legal bases and purposes of our processing?](#5-what-are-the-legal-bases-and-purposes-of-our-processing?)
+
+[6. Who are the recipients of your data?](#6-who-are-the-recipients-of-your-data?)
+
+[7. Do we transfer your data?](#7-do-we-transfer-your-data?)
+
+[8. How long are we keeping your data?](#8-how-long-are-we-keeping-your-data?)
+
+[9. How do we ensure the security of your personal data?](#9-how-do-we-ensure-the-security-of-your-personal-data?)
+
+[10. Do we use processors?](#10-do-we-use-processors?)
+
+[11. Do we use cookies?](#11-do-we-use-cookies?)
+
+[12. What are your rights?](#12-what-are-your-rights?)
+
+[12.1 Your right of access](#121-your-right-of-access)
+
+[12.2 Your right to rectification of your data](#122-your-right-to-rectification-of-your-data)
+
+[12.3 Your right to erasure of your data](#123-your-right-to-erasure-of-your-data)
+
+[12.4 Your right to restriction of processing of your data](#124-your-right-to-restriction-of-processing-of-your-data)
+
+[12.5 Your right to object to processing of your data](#125-your-right-to-object-to-processing-of-your-data)
+
+[12.6 Your right to data portability](#126-your-right-to-data-portability)
+
+[12.7 Your right to withdraw your consent](#127-your-right-to-withdraw-your-consent)
+
+[12.8 Your right to lodge a complaint](#128-your-right-to-lodge-a-complaint)
+
+[12.9 Your right to give post-mortem instructions](#129-your-right-to-give-post-mortem-instructions)
+
+[12.10 How to exercise your rights?](#1210-how-to-exercise-your-rights?)
+
+[13. Change to this document](#13-change-to-this-document)
+
+# 1. Introduction
+
+1\.  The main purpose of this document is to provide you with information
+    about the processing of personal data carried out by A3BC Group
+    ("A3BC Group" or "we") in a concise, transparent, intelligible and
+    easily accessible form, to help you understand how your data are
+    processed.
+
+# 2. Data are collected fairly and in a transparent manner
+
+1\.  In order to ensure fair and transparent data collection, we provide
+    information on each processing operation we carry out by means of
+    information notices.
+
+2\.  Data are collected fairly. No data is collected without the
+    knowledge or information of the data subjects.
+
+# 3. Data are collected for legitimate and proportionate purposes
+
+1\.  When we process data, we do so for specific purposes: each data
+    processing carried out by us has a legitimate, specified and
+    explicit purpose.
+
+2\.  For each of the processing carried out, we undertake to collect and
+    use only data that are adequate, relevant and limited to what is
+    necessary in relation to the purposes for which they are processed.
+
+3\.  We ensure that the data are kept up to date and take steps to ensure
+    that data that are inaccurate are erased or rectified.
+
+# 4. What data do we process?
+
+1\.  In the context of the processing of personal data, the purposes of
+    which are presented to you below, A3BC Group collects and processes
+    the following categories of data:
+
+-   identification data of the data subject such as your title, your
+    last name and first name, your date of birth, your phone number,
+    your email address, the template of your fingerprints;
+
+-   the login password associated with each customer account;
+
+-   the date and time the user logs in and logs out;
+
+-   the date and time documents and identification and authentication
+    information are added, modified or deleted.
+
+# 5. What are the legal bases and purposes of our processing?
+
+1\.  The processing operations carried out by A3BC Group have the
+    following purposes and legal bases:
+
+| No. | Purpose         | Sub-purpose     | legal basis     |
+|-----|-----------------|-----------------|-----------------|
+| 1.  | Customer relationship | Managing the activation of your customer account     | Consent         |
+|-----|-----------------|-----------------|-----------------|
+| 2.  |                 | Storing copies of supporting documents  | Performance of a contract and taking steps at the request of the data subject prior to entering into a contract |
+|-----|-----------------|-----------------|-----------------|
+| 3.  |                 | Capturing the fingerprints of four of the fingers of one of the hands and calculating the corresponding template   | Consent         |
+|-----|-----------------|-----------------|-----------------|
+| 4.  |                 | Storing updating and deleting the following documents and identification and authentication information:<br>- Curriculum vitae<br>- Proof of address<br>- Driving licence<br>- Accommodation certificate<br>- Pay slip<br>- Employment contract<br>- Cover letter<br>- Letter of recommendation<br>- Health insurance card<br>- Rent receipt<br>- Certificate of registration<br>- Bank details<br>- Family record book<br>- Tax notice<br>- Proof of activity<br>- Insurance certificate<br>- Identity document<br>- Fingerprint template<br>| Performance of a contract and taking steps at the request of the data subject prior to entering into a contract  |
+|-----|-----------------|-----------------|-----------------|
+| 5.  | Management of supporting documents | Sharing stored documents and identification and authentication information with third parties | Consent         |
+|-----|-----------------|-----------------|-----------------|
+| 6.  |                 |                 | Performance of a contract and taking steps at the request of the data subject prior to entering into a contract |
+|-----|-----------------|-----------------|-----------------|
+| 7.  | Login data management (Recording the login password associated with each customer account;<br>Recording the date and time the user logs in and logs out;<br>Recording the date and time documents and identification and authentication information are added, modified or deleted) | Ensuring the non-repudiation of transactions carried out by means of documents and identification and authentication information recorded by the user<br>Having proof in legal or judicial proceedings for which the provision of login data is requested | Performance of a contract and taking steps at the request of the data subject prior to entering into a contract |
+|-----|-----------------|-----------------|-----------------|
+| 8.  | Digital identity management |                 | Performance of a contract and taking steps at the request of the data subject prior to entering into a contract |
+|-----|-----------------|-----------------|-----------------|
+
+# 6. Who are the recipients of your data?
+
+1\.  The recipients of your data are:
+
+-   A3BC Group's authorised members;
+
+-   A3BC Group's service providers and subcontractors, each to the
+    extent to which it is concerned;
+
+-   third parties in the context of requests for identification and
+    authentication of transactions to which you are party.
+
+2\. We ensure that only authorised persons of those recipients have
+    access to these data. A3BC Group has a strict clearance policy which
+    ensures that the data it processes is only shared with those
+    authorised to access them.
+
+# 7. Do we transfer your data?
+
+1\. We may transfer personal data outside the European Union as part of
+    the IT tools we use for our business.
+
+2\. These transfers will only be carried out after A3BC Group has taken
+    measures to secure them, for example by using the standard
+    contractual clauses adopted by the European Commission to provide a
+    framework for the resulting cross-border flows.
+
+# 8. How long are we keeping your data?
+
+1\. We ensure that data are kept in a form which permits identification
+    of data subjects for no longer than is necessary for the purposes
+    for which the data are processed.
+
+2\. The periods for which we keep your personal data are proportionate
+    to the purposes for which your data were collected.
+
+3\. More precisely, our data storage policy is organised as follows:
+
+| No.             | Category of data | purposes       | storage period  |
+|-----------------|-----------------|-----------------|-----------------|
+| 1.              | Identification of individuals | Managing the activation of your customer account | Duration of your customer account  |
+|-----------------|-----------------|-----------------|-----------------|
+| 2.              |                 | Storing, updating and deleting documents and identification and authentication information | Until the deletion of your data and at the most as long as your customer account exists |
+|-----------------|-----------------|-----------------|-----------------|
+| 3.              |                 | Capturing the fingerprints of four of the fingers of one of the hands and calculating the corresponding template | Duration of your customer account |
+|-----------------|-----------------|-----------------|-----------------|
+| 4.              |                 | Sharing stored documents and identification and authentication information with third parties | 24 hours from the registration of your consent to each sharing request |
+|-----------------|-----------------|-----------------|-----------------|
+| 5.              |                 | Creating a digital identity | Duration of your customer account |
+|-----------------|-----------------|-----------------|-----------------|
+| 6.              | Login password associated with each customer account;<br>Date and time the user logs in and logs out;<br>Date and time documents and identification and authentication information are added, modified or deleted |Ensuring the non-repudiation of transactions<br>Having proof of transactions | Duration of your customer account plus 7 years |
+|-----------------|-----------------|-----------------|-----------------|
+
+# 9. How do we ensure the security of your personal data?
+
+1\. The security of your personal data is very important to A3BC Group.
+
+2\. We have implemented technical and organisational measures
+    appropriate to the degree of sensitivity of the personal data, in
+    order to ensure the integrity and confidentiality of the data and
+    protect them against malicious intrusion, loss, alteration or
+    disclosure to unauthorised third parties.
+
+# 10. Do we use processors?
+
+1\. Where we use a service provider, we will only disclose personal data
+    to them after obtaining a commitment and guarantees from them that
+    they will be able to meet security and confidentiality requirements.
+
+2\. In compliance with our legal and regulatory obligations, the
+    contracts concluded with our processors set out precisely the terms
+    and conditions of the processing of personal data by them in
+    accordance with personal data protection laws.
+
+# 11. Do we use cookies?
+
+1\. More information about cookies can be found in our Cookie Policy.
+
+# 12. What are your rights?
+
+1\. A3BC Group is committed to respecting your rights in relation to the
+    data we process, in order to guarantee fair and transparent
+    processing taking into account the particular circumstances and
+    context in which your personal data are processed.
+
+## 12.1 Your right of access
+
+1\. You have the right to obtain confirmation as to whether or not your
+    personal data are being processed and, where that is the case,
+    access to your data and the following information:
+
+-   the purposes of the processing;
+
+-   the categories of personal data concerned;
+
+-   the recipients or categories of recipient, and where applicable the
+    international organisations, to whom the personal data have been or
+    will be disclosed, in particular recipients in third countries;
+
+-   where possible, the envisaged period for which the personal data
+    will be stored, or, if not possible, the criteria used to determine
+    that period;
+
+-   the existence of the right to request from the controller
+    rectification or erasure of your personal data or restriction of
+    processing of your personal data or to object to such processing;
+
+-   the right to lodge a complaint with a supervisory authority;
+
+-   where the personal data are not collected from the data subject, any
+    available information as to their source;
+
+-   the existence of automated decision-making, including profiling,
+    and, at least in the latter case, meaningful information about the
+    logic involved, as well as the significance and the envisaged
+    consequences of such processing for the data subject.
+
+## 12.2 Your right to rectification of your data
+
+1\. You have the right to ask us, as the case may be, to rectify or
+    complete your personal data that are inaccurate, incomplete,
+    ambiguous or expired.
+
+## 12.3 Your right to erasure of your data 
+
+1\. You have the right to ask us to erase your personal data in the
+    cases provided for by laws and regulations.
+
+2\. Please note, however, that the right to erasure is not a general
+    right and can only be exercised if one of the reasons provided for
+    in the applicable laws is met.
+
+## 12.4 Your right to restriction of processing of your data
+
+1\. You have the right to request restriction of processing of your
+    personal data in the cases provided for by laws and regulations.
+
+## 12.5 Your right to object to processing of your data
+
+1\. You have the right to object, on grounds relating to your particular
+    situation, at any time to processing of your personal data which is
+    based on the legitimate interest pursued by the controller (see
+    clause above on the legal bases for processing).
+
+2\. If you exercise your right to object, we will no longer process your
+    personal data for the processing concerned unless we demonstrate
+    compelling legitimate grounds for the processing which must override
+    your interests, rights and freedoms or for the establishment,
+    exercise or defence of legal claims.
+
+## 12.6 Your right to data portability
+
+1\. You have the right to portability of your personal data. Please
+    note, however, that the right to data portability is not a general
+    right. Not all data from all processing operations are portable; the
+    right to data portability only concerns processing carried out by
+    automated means to the exclusion of manual or paper processing.
+
+2\. This right is limited to processing based on your consent, on the
+    performance of a contract or on the taking of steps prior to
+    entering into a contract.
+
+3\. This right does not include derived or inferred data, which are
+    personal data created by A3BC Group.
+
+## 12.7 Your right to withdraw your consent
+
+1\. Where the processing of personal data we carry out is based on your
+    consent, you have the right to withdraw your consent at any time. We
+    will then stop processing your personal data but this will not
+    affect the operations based on consent before its withdrawal.
+
+## 12.8 Your right to lodge a complaint
+
+1\. You have the right to lodge a complaint with the CNIL (3 place de
+    Fontenoy 75007 Paris) on the French territory without prejudice to
+    any administrative or judicial remedy.
+
+## 12.9 Your right to give post-mortem instructions
+
+1\. You have the right to give special instructions on how your personal
+    data should be stored, erased and shared after your death. These
+    special instructions only concern, and will be limited to, the
+    processing carried out by us.
+
+2\. You also have the right, when that person will be designated by the
+    executive branch, to give general instructions for the same purpose.
+
+## 12.10 How to exercise your rights?
+
+1\. You may exercise the rights listed above by sending a request,
+    together with a document proving your identity by any means, by
+    email to <contact.trustme@a3bc.io> or by post to A3BC Group chez
+    Teamwill, Tour EQHO, 2 avenue Gambetta 92400 Courbevoie.
+
+# 13. Change to this document
+
+1\. We invite you to consult this policy on our website regularly. It
+    may be updated at any time.

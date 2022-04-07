@@ -1,13 +1,16 @@
-
+## **sommaire_politique_externe_protection_des_donnees_a_caractere_personnel**
 
 # **A3BC Group**
 
+[1. **Conditions générales d'utilisation**](#sommaire-conditions-générales-dutilisation)
+
+[1. **Politique externe protection des données à caractère personnel**](#sommaire-politique-externe-protection-des-données-à-caractère-personnel)
 # **Conditions Générales d'Utilisation**
 
 # **Application mobile**
 
 
-**SOMMAIRE**
+## **SOMMAIRE CONDITIONS GÉNÉRALES D'UTILISATION**
 
 [1. Préambule](#1-préambule)
 
@@ -703,3 +706,355 @@ séjour.
 
 Version des Conditions générales d'utilisation de la société A3BC Group
 du 01 04 2022
+
+______
+
+
+## **SOMMAIRE POLITIQUE EXTERNE PROTECTION DES DONNÉES À CARACTÈRE PERSONNEL**
+
+[1. Introduction](#1-introduction)
+
+[2. Une collecte loyale et transparente de vos données](#2-une-collecte-loyale-et-transparente-de-vos-données)
+
+[3. Une utilisation légitime et proportionnée de vos données](#3-une-utilisation-légitime-et-proportionnée-de-vos-données)
+
+[4. Les données à caractère personnel que nous traitons](#4-les-données-à-caractère-personnel-que-nous-traitons)
+
+[5. Les bases juridiques et les finalités de nos traitements de données](#5-les-bases-juridiques-et-les-finalités-de-nos-traitements-de-données)
+
+[6. Les destinataires de vos données](#6-les-destinataires-de-vos-données)
+
+[7. Les transferts de vos données](#7-les-transferts-de-vos-données)
+
+[8. Les durées pour lesquelles nous conservons vos données](#8-les-durées-pour-lesquelles-nous-conservons-vos-données)
+
+[9. La sécurité des données personnelles](#9-la-sécurité-des-données-personnelles)
+
+[10. La sous-traitance](#10-la-sous-traitance)
+
+[11. Cookies](#11-cookies)
+
+[12. Les droits qui vous sont reconnus](#12-les-droits-qui-vous-sont-reconnus)
+
+[12.1 Votre droit d'accès](#121-votre-droit-d'accès)
+
+[12.2 Votre droit à la rectification de vos données](#122-votre-droit-à-la-rectification-de-vos-données)
+
+[12.3 Votre droit à l'effacement de vos données](#123-votre-droit-à-l'effacement-de-vos-données)
+
+[12.4 Votre droit à la limitation des traitements de données](#124-votre-droit-à-la-limitation-des-traitements-de-données)
+
+[12.5 Votre droit de vous opposer aux traitements de données](#125-votre-droit-de-vous-opposer-aux-traitements-de-données)
+
+[12.6 Votre droit à la portabilité de vos données](#126-votre-droit-à-la-portabilité-de-vos-données)
+
+[12.7 Votre droit de retirer votre consentement](#127-votre-droit-de-retirer-votre-consentement)
+
+[12.8 Votre droit d'introduire un recours](#128-votre-droit-d'introduire-un-recours)
+
+[12.9 Votre droit de définir des directives post-mortem](#129-votre-droit-de-définir-des-directives-post-mortem)
+
+[12.10 Les modalités d'exercice de vos droits](#1210-les-modalités-d'exercice-de-vos-droits)
+
+[13. Modification du présent document](#13-modification-du-présent-document)
+
+# 1. Introduction
+
+1\.  L'objectif principal de ce document est de regrouper dans un format
+    concis, transparent, compréhensible et aisément accessible des
+    informations concernant les traitements de données mis en œuvre par
+    A3BC Group (ci-après « A3BC Group » ou « nous ») pour vous permettre
+    de comprendre dans quelles conditions vos données sont traitées.
+
+# 2. Une collecte loyale et transparente de vos données
+
+1\.  Dans un souci de loyauté et de transparence, nous prenons soin
+    d'informer de chaque traitement que nous mettons en œuvre par des
+    mentions d'information.
+
+2\.  Les données à caractère personnel sont collectées loyalement. Aucune
+    collecte n'est effectuée à l'insu des personnes et sans qu'elles en
+    soient informées.
+
+# 3. Une utilisation légitime et proportionnée de vos données
+
+1\.  Lorsque nous sommes amenés à traiter des données, nous le faisons
+    pour des finalités spécifiques : chaque traitement de données mis en
+    œuvre poursuit une finalité légitime, déterminée et explicite.
+
+2\.  Pour chacun des traitements mis en œuvre, nous nous engageons à ne
+    collecter et n'exploiter que des données adéquates, pertinentes et
+    limitées à ce qui est nécessaire au regard des finalités pour
+    lesquelles elles sont traitées.
+
+3\.  Nous veillons à ce que les données soient mises à jour et à mettre
+    en œuvre des procédés pour permettre l'effacement ou la
+    rectification des données inexactes.
+
+# 4. Les données à caractère personnel que nous traitons
+
+1\.  Dans le cadre des traitements de données à caractère personnel dont
+    les finalités vous sont présentées ci-après, A3BC Group collecte et
+    traite les catégories de données suivantes :
+
+-   des données d'identification des personnes concernées telles que
+    votre civilité, vos nom et prénom, votre date de naissance, vos
+    coordonnées téléphoniques, électroniques, le gabarit de vos
+    empreintes digitales ;
+
+-   le mot de passe de connexion associé à chaque compte client ;
+
+-   les date et heure de connexion et de déconnexion de
+    l'utilisateur ;les date et heure d'ajout, de modification ou de
+    suppression des documents et des informations d'identification et
+    d'authentification.
+
+# 5. Les bases juridiques et les finalités de nos traitements de données
+
+1\.  Les traitements mis en œuvre par A3BC Group ont les finalités et
+    bases juridiques suivantes :
+
+| N°              | finalites       | SOUS-FINALITES  | BASES JURIDIQUES |
+|-----------------|-----------------|-----------------|------------------|
+| 1.              | Relation client | Gestion de l'activation de votre compte client  | Consentement    |
+|-----------------|-----------------|-----------------|------------------|
+| 2.              |                 | Stockage de copies de documents justificatifs | Exécution des contrats et exécution des mesures précontractuelles prises à la demande des personnes concernées  |
+|-----------------|-----------------|-----------------|------------------|
+| 3.              |                 | Capture de l'empreinte de quatre des doigts de l'une des mains et calcul du gabarit correspondant | Consentement    |
+|-----------------|-----------------|-----------------|------------------|
+| 4.              |                 | Stockage, mise à jour et suppression des documents et d'informations d'identification et d'authentification suivants :<br>- Curriculum vitae<br>- Justification de domicile<br>- Permis de conduire<br>- Attestation d'hébergement<br>- Bulletin de paie<br>- Contrat de travail<br>- Lettre de motivation<br>- Lettre de recommandation<br>- Carte d'assurance maladie<br>- Quittance de loyer<br>- Certificat d'immatriculation<br>- RIB<br>- Livret de famille<br>- Avis d'imposition<br>- Justificatif d'activité<br>- Attestation d'assurance<br>- Pièce d'identité<br>- Gabarit d'empreinte<br> | Exécution des contrats et exécution des mesures précontractuelles prises à la demande des personnes concernées |
+|-----------------|-----------------|-----------------|------------------|
+| 5.              | Gestion de documents justificatifs | Partage avec des tiers des documents et des informations d'identification et d'authentification stockés avec des tiers | Consentement    |
+|-----------------|-----------------|-----------------|------------------|
+| 6.              |                 |                 | Exécution des contrats et exécution des mesures précontractuelles prises à la demande des personnes concernées  |
+|-----------------|-----------------|-----------------|------------------|
+| 7.              | Gestion des données de connexion (Enregistrement du mot de passe de connexion associé à chaque compte client ;<br>Enregistrement des date et heure de connexion et de déconnexion de l'utilisateur;<br>Enregistrement des date et heure d'ajout, de modification ou de suppression des documents et des informations d'identification et d'authentification)  | Non répudiation des transactions réalisées au moyen des documents et des informations d'identification et d'authentification enregistrés par l'utilisateur<br>Preuve dans le cadre de procédures juridiques ou judiciaires pour lesquelles la production des données de connexion est demandée | Exécution des contrats et exécution des mesures précontractuelles prises à la demande des personnes concernées  |
+|-----------------|-----------------|-----------------|------------------|
+| 8.              | Gestion de l'identité numérique |                 | Exécution des contrats et exécution des mesures précontractuelles prises à la demande des personnes concernées  |
+|-----------------|-----------------|-----------------|------------------|
+
+# 6. Les destinataires de vos données
+
+1\.  Sont destinataires de vos données :
+
+-   les membres habilités d'A3BC Group ;
+
+-   les prestataires et sous-traitants d'A3BC Group pour ce qui les
+    concerne ;
+
+-   les tiers dans le cadre de demandes d'identification et
+    d'authentification de transactions auxquelles vous êtes partie.
+
+2\. Nous veillons à ce que, parmi ces destinataires, seules les
+    personnes habilitées puissent avoir accès à ces données. A3BC Group
+    applique une politique d'habilitation stricte qui permet que les
+    données qu'elle traite ne soient transmises qu'aux seules personnes
+    autorisées à y avoir accès.
+
+# 7. Les transferts de vos données
+
+1\. Nous sommes susceptibles de transférer des données personnelles en
+    dehors de l'Union européenne dans le cadre des outils informatiques
+    que nous utilisons pour nos activités.
+
+2\. Ces transferts ne peuvent être réalisés qu'après qu'A3BC Group a
+    pris les mesures pour les sécuriser, en veillant par exemple à la
+    conclusion des clauses contractuelles types définies par la
+    Commission européenne afin d'encadrer les flux transfrontières qui
+    en résultent.
+
+# 8. Les durées pour lesquelles nous conservons vos données
+
+1\. Nous faisons en sorte que les données ne soient conservées sous une
+    forme permettant l'identification des personnes concernées que
+    pendant une durée nécessaire au regard des finalités pour lesquelles
+    elles sont traitées.
+
+2\. Les durées de conservation que nous appliquons à vos données à
+    caractère personnel sont proportionnées aux finalités pour
+    lesquelles elles ont été collectées.
+
+3\. Plus précisément, nous organisons notre politique de conservation
+    des données de la manière suivante :
+
+| N°              | Catégorie de donnees | finalites       | duree de conservation |
+|-----------------|----------------------|-----------------|-----------------------|
+| 1.              | Identification des personnes | Gestion de l'activation de votre compte client  | Durée d'existence de votre compte client  |
+|-----------------|----------------------|-----------------|-----------------------|
+| 2.              |                 | Stockage, mise à jour et suppression des documents et d'informations d'identification et d'authentification  | Jusqu'à la suppression de vos données et au plus pour toute la durée d'existence de votre compte client  |
+|-----------------|----------------------|-----------------|-----------------------|
+| 3.              |                 | Capture de l'empreinte de quatre des doigts de l'une des mains et calcul du gabarit correspondant  | Durée d'existence de votre compte client  |
+|-----------------|----------------------|-----------------|-----------------------|
+| 4.              |                 | Partage des documents et d'informations d'identification et d'authentification stockés avec des tiers  | 24 heures à compter de l'enregistrement de votre consentement à chaque demande de partage  |
+|-----------------|----------------------|-----------------|-----------------------|
+| 5.              |                 | Création d'une identité numérique  | Durée d'existence de votre compte client |
+|-----------------|----------------------|-----------------|-----------------------|
+| 6.              | Mot de passe de connexion associé à chaque compte client<br>Date et heure de connexion et de déconnexion de l'utilisateur<br>Date et heure d'ajout, de modification ou de suppression des documents et des informations d'identification et d'authentification | Non répudiation des transactions<br>Preuve des transactions | Durée d'existence de votre compte client augmentée d'une durée de 7 ans |
+|-----------------|----------------------|-----------------|-----------------------|
+
+# 9. La sécurité des données personnelles
+
+1\. Nous accordons une importance particulière à la sécurité des données
+    personnelles.
+
+2\. Il a mis en place des mesures techniques et organisationnelles
+    adaptées au degré de sensibilité des données personnelles, en vue
+    d'assurer l'intégrité et la confidentialité des données et de les
+    protéger contre toute intrusion malveillante, toute perte,
+    altération ou divulgation à des tiers non autorisés.
+
+# 10. La sous-traitance
+
+1\. Lorsque nous avons recourt à un prestataire, nous ne lui
+    communiquons des données à caractère personnel qu'après avoir obtenu
+    de ce dernier un engagement et des garanties sur sa capacité à
+    répondre à ces exigences de sécurité et de confidentialité.
+
+2\. Nous concluons avec nos sous-traitants dans le respect de nos
+    obligations légales et réglementaires des contrats définissant
+    précisément les conditions et modalités de traitement des données
+    personnelles par ces derniers, en conformité avec la réglementation
+    sur la protection des données personnelles.
+
+# 11. Cookies
+
+1\. Les cookies font l'objet d'une politique cookies.
+
+# 12. Les droits qui vous sont reconnus
+
+1\. A3BC Group est particulièrement soucieux du respect des droits qui
+    vous sont accordés dans le cadre des traitements de données qu'il
+    met en œuvre, pour vous garantir des traitements équitables et
+    transparents compte tenu des circonstances particulières et du
+    contexte dans lesquels vos données personnelles sont traitées.
+
+# 12.1 Votre droit d'accès
+
+1\. A ce titre, vous avez la confirmation que vos données personnelles
+    sont ou ne sont pas traitées et lorsqu'elles le sont, vous disposez
+    du droit de demander une copie de vos données et des informations
+    concernant :
+
+-   les finalités du traitement ;
+
+-   les catégories de données personnelles concernées ;
+
+-   les destinataires ou catégories de destinataires ainsi que, le cas
+    échéant si de telles communication devaient être réalisées, les
+    organisations internationales auxquelles les données personnelles
+    ont été ou seront communiquées, en particulier les destinataires qui
+    sont établis dans des pays tiers ;
+
+-   lorsque cela est possible, la durée de conservation des données
+    personnelles envisagée ou, lorsque ce n'est pas possible, les
+    critères utilisés pour déterminer cette durée ;
+
+-   l'existence du droit de demander au responsable du traitement la
+    rectification ou l'effacement de vos données personnelles, du droit
+    de demander une limitation du traitement de vos données
+    personnelles, du droit de vous opposer à ce traitement ;
+
+-   le droit d'introduire une réclamation auprès d'une autorité de
+    contrôle ;
+
+-   des informations relatives à la source des données quand elles ne
+    sont pas collectées directement auprès des personnes concernées ;
+
+-   l'existence d'une prise de décision automatisée, y compris de
+    profilage, et dans ce dernier cas, des informations utiles
+    concernant la logique sous-jacente, ainsi que l'importance et les
+    conséquences prévues de ce traitement pour les personnes concernées.
+
+# 12.2 Votre droit à la rectification de vos données 
+
+1\. Vous pouvez nous demander à ce que vos données personnelles soient,
+    selon les cas, rectifiées, complétées si elles sont inexactes,
+    incomplètes, équivoques, périmées.
+
+# 12.3 Votre droit à l'effacement de vos données 
+
+1\. Vous pouvez nous demander l'effacement de vos données personnelles
+    dans les cas prévus par la législation et la réglementation.
+
+2\. Votre attention est attirée sur le fait que le droit à l'effacement
+    des données n'est pas un droit général et qu'il ne pourra y être
+    fait droit que si un des motifs prévus dans la réglementation
+    applicable est présent.
+
+# 12.4 Votre droit à la limitation des traitements de données
+
+1\. Vous pouvez demander la limitation du traitement de vos données
+    personnelles dans les cas prévus par la législation et la
+    réglementation.
+
+# 12.5 Votre droit de vous opposer aux traitements de données
+
+1\. Vous disposez du droit de vous opposer à tout moment, pour des
+    raisons tenant à votre situation particulière, à un traitement de
+    vos données à caractère personnel dont la base juridique est
+    l'intérêt légitime poursuivi par le responsable du traitement (cf.
+    article ci-dessus sur la base juridique du traitement).
+
+2\. En cas d'exercice d'un tel droit d'opposition, nous veillerons à ne
+    plus traiter vos données à caractère personnel dans le cadre du
+    traitement concerné sauf si nous pouvons démontrer que nous pouvons
+    avoir des motifs légitimes et impérieux pour maintenir ce
+    traitement. Ces motifs devront être supérieurs à vos intérêts et à
+    vos droits et libertés, ou le traitement se justifier pour la
+    constatation, l\'exercice ou la défense de droits en justice.
+
+# 12.6 Votre droit à la portabilité de vos données
+
+1\. Vous disposez du droit à la portabilité de vos données personnelles.
+    Nous attirons votre attention sur le fait qu'il ne s'agit pas d'un
+    droit général. En effet, toutes les données de tous les traitements
+    ne sont pas portables et ce droit ne concerne que les traitements
+    automatisés à l'exclusion des traitements manuels ou papiers.
+
+2\. Ce droit est limité aux traitements dont la base juridique est votre
+    consentement ou l'exécution des mesures précontractuelles ou d'un
+    contrat.
+
+3\. Ce droit n'inclut ni les données dérivées ni les données inférées,
+    qui sont des données personnelles créées par A3BC Group.
+
+# 12.7 Votre droit de retirer votre consentement
+
+1\. Lorsque les traitements de données que nous mettons en œuvre sont
+    fondés sur votre consentement, vous pouvez le retirer à n'importe
+    quel moment. Nous cessons alors de traiter vos données à caractère
+    personnel sans que les opérations antérieures pour lesquelles vous
+    aviez consenti ne soient remises en cause.
+
+# 12.8 Votre droit d'introduire un recours
+
+1\. Vous avez le droit d'introduire une réclamation auprès de la Cnil (3
+    place de Fontenoy 75007 Paris) sur le territoire français, et ce,
+    sans préjudice de tout autre recours administratif ou
+    juridictionnel.
+
+# 12.9 Votre droit de définir des directives post-mortem
+
+1\. Vous avez la possibilité de définir des directives particulières
+    relatives à la conservation, à l'effacement et à la communication de
+    vos données personnelles après votre décès selon les modalités
+    ci-après définies. Ces directives particulières ne concernent que
+    les traitements mis en œuvre par nos soins et seront limitées à ce
+    seul périmètre.
+
+2\. Vous disposez également, lorsque cette personne aura été désignée
+    par le pouvoir exécutif, du droit de définir des directives
+    générales aux mêmes fins.
+
+# 12.10 Les modalités d'exercice de vos droits
+
+1\. Vous les droits énumérés ci-avant peuvent être exercés à l'adresse
+    électronique suivante contact.trustme\@a3bc.io ou par courrier
+    postal envoyé à l'adresse suivante, A3BC Group chez Teamwill, Tour
+    EQHO, 2 avenue Gambetta 92400 Courbevoie, en justifiant de votre
+    identité par tous moyens.
+
+# 13. Modification du présent document
+
+1\. Nous vous invitons à consulter régulièrement cette politique sur
+    notre site internet. Elle pourra faire l'objet de mises à jour.

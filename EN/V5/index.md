@@ -731,19 +731,19 @@ ______
 |-----|-----------------|-----------------|-----------------|
 | 1.  | Customer relationship | Managing the activation of your customer account     | Consent         |
 |-----|-----------------|-----------------|-----------------|
-| 2.  |                 | Storing copies of supporting documents  | Performance of a contract and taking steps at the request of the data subject prior to entering into a contract |
+| 2.  | Customer relationship | Storing copies of supporting documents  | Performance of a contract and taking steps at the request of the data subject prior to entering into a contract |
 |-----|-----------------|-----------------|-----------------|
-| 3.  |                 | Capturing the fingerprints of four of the fingers of one of the hands and calculating the corresponding template   | Consent         |
+| 3.  | Customer relationship | Capturing the fingerprints of four of the fingers of one of the hands and calculating the corresponding template   | Consent         |
 |-----|-----------------|-----------------|-----------------|
-| 4.  |                 | Storing updating and deleting the following documents and identification and authentication information:<br>- Curriculum vitae<br>- Proof of address<br>- Driving licence<br>- Accommodation certificate<br>- Pay slip<br>- Employment contract<br>- Cover letter<br>- Letter of recommendation<br>- Health insurance card<br>- Rent receipt<br>- Certificate of registration<br>- Bank details<br>- Family record book<br>- Tax notice<br>- Proof of activity<br>- Insurance certificate<br>- Identity document<br>- Fingerprint template<br>| Performance of a contract and taking steps at the request of the data subject prior to entering into a contract  |
+| 4.  | Customer relationship | Storing updating and deleting the following documents and identification and authentication information:<br>- Curriculum vitae<br>- Proof of address<br>- Driving licence<br>- Accommodation certificate<br>- Pay slip<br>- Employment contract<br>- Cover letter<br>- Letter of recommendation<br>- Health insurance card<br>- Rent receipt<br>- Certificate of registration<br>- Bank details<br>- Family record book<br>- Tax notice<br>- Proof of activity<br>- Insurance certificate<br>- Identity document<br>- Fingerprint template<br>| Performance of a contract and taking steps at the request of the data subject prior to entering into a contract  |
 |-----|-----------------|-----------------|-----------------|
 | 5.  | Management of supporting documents | Sharing stored documents and identification and authentication information with third parties | Consent         |
 |-----|-----------------|-----------------|-----------------|
-| 6.  |                 |                 | Performance of a contract and taking steps at the request of the data subject prior to entering into a contract |
+| 6.  | Management of supporting documents | Sharing stored documents and identification and authentication information with third parties | Performance of a contract and taking steps at the request of the data subject prior to entering into a contract |
 |-----|-----------------|-----------------|-----------------|
 | 7.  | Login data management (Recording the login password associated with each customer account;<br>Recording the date and time the user logs in and logs out;<br>Recording the date and time documents and identification and authentication information are added, modified or deleted) | Ensuring the non-repudiation of transactions carried out by means of documents and identification and authentication information recorded by the user<br>Having proof in legal or judicial proceedings for which the provision of login data is requested | Performance of a contract and taking steps at the request of the data subject prior to entering into a contract |
 |-----|-----------------|-----------------|-----------------|
-| 8.  | Digital identity management |                 | Performance of a contract and taking steps at the request of the data subject prior to entering into a contract |
+| 8.  | Digital identity management | Ensuring the non-repudiation of transactions carried out by means of documents and identification and authentication information recorded by the user<br>Having proof in legal or judicial proceedings for which the provision of login data is requested | Performance of a contract and taking steps at the request of the data subject prior to entering into a contract |
 |-----|-----------------|-----------------|-----------------|
 
 # 6. Who are the recipients of your data?
@@ -788,13 +788,13 @@ ______
 |-----------------|-----------------|-----------------|-----------------|
 | 1.              | Identification of individuals | Managing the activation of your customer account | Duration of your customer account  |
 |-----------------|-----------------|-----------------|-----------------|
-| 2.              |                 | Storing, updating and deleting documents and identification and authentication information | Until the deletion of your data and at the most as long as your customer account exists |
+| 2.              | Identification of individuals | Storing, updating and deleting documents and identification and authentication information | Until the deletion of your data and at the most as long as your customer account exists |
 |-----------------|-----------------|-----------------|-----------------|
-| 3.              |                 | Capturing the fingerprints of four of the fingers of one of the hands and calculating the corresponding template | Duration of your customer account |
+| 3.              | Identification of individuals | Capturing the fingerprints of four of the fingers of one of the hands and calculating the corresponding template | Duration of your customer account |
 |-----------------|-----------------|-----------------|-----------------|
-| 4.              |                 | Sharing stored documents and identification and authentication information with third parties | 24 hours from the registration of your consent to each sharing request |
+| 4.              | Identification of individuals | Sharing stored documents and identification and authentication information with third parties | 24 hours from the registration of your consent to each sharing request |
 |-----------------|-----------------|-----------------|-----------------|
-| 5.              |                 | Creating a digital identity | Duration of your customer account |
+| 5.              | Identification of individuals | Creating a digital identity | Duration of your customer account |
 |-----------------|-----------------|-----------------|-----------------|
 | 6.              | Login password associated with each customer account;<br>Date and time the user logs in and logs out;<br>Date and time documents and identification and authentication information are added, modified or deleted |Ensuring the non-repudiation of transactions<br>Having proof of transactions | Duration of your customer account plus 7 years |
 |-----------------|-----------------|-----------------|-----------------|

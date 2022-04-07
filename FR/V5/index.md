@@ -812,19 +812,19 @@ ______
 |-----------------|-----------------|-----------------|------------------|
 | 1.              | Relation client | Gestion de l'activation de votre compte client  | Consentement    |
 |-----------------|-----------------|-----------------|------------------|
-| 2.              |                 | Stockage de copies de documents justificatifs | Exécution des contrats et exécution des mesures précontractuelles prises à la demande des personnes concernées  |
+| 2.              | Relation client | Stockage de copies de documents justificatifs | Exécution des contrats et exécution des mesures précontractuelles prises à la demande des personnes concernées  |
 |-----------------|-----------------|-----------------|------------------|
-| 3.              |                 | Capture de l'empreinte de quatre des doigts de l'une des mains et calcul du gabarit correspondant | Consentement    |
+| 3.              | Relation client | Capture de l'empreinte de quatre des doigts de l'une des mains et calcul du gabarit correspondant | Consentement    |
 |-----------------|-----------------|-----------------|------------------|
-| 4.              |                 | Stockage, mise à jour et suppression des documents et d'informations d'identification et d'authentification suivants :<br>- Curriculum vitae<br>- Justification de domicile<br>- Permis de conduire<br>- Attestation d'hébergement<br>- Bulletin de paie<br>- Contrat de travail<br>- Lettre de motivation<br>- Lettre de recommandation<br>- Carte d'assurance maladie<br>- Quittance de loyer<br>- Certificat d'immatriculation<br>- RIB<br>- Livret de famille<br>- Avis d'imposition<br>- Justificatif d'activité<br>- Attestation d'assurance<br>- Pièce d'identité<br>- Gabarit d'empreinte<br> | Exécution des contrats et exécution des mesures précontractuelles prises à la demande des personnes concernées |
+| 4.              | Relation client | Stockage, mise à jour et suppression des documents et d'informations d'identification et d'authentification suivants :<br>- Curriculum vitae<br>- Justification de domicile<br>- Permis de conduire<br>- Attestation d'hébergement<br>- Bulletin de paie<br>- Contrat de travail<br>- Lettre de motivation<br>- Lettre de recommandation<br>- Carte d'assurance maladie<br>- Quittance de loyer<br>- Certificat d'immatriculation<br>- RIB<br>- Livret de famille<br>- Avis d'imposition<br>- Justificatif d'activité<br>- Attestation d'assurance<br>- Pièce d'identité<br>- Gabarit d'empreinte<br> | Exécution des contrats et exécution des mesures précontractuelles prises à la demande des personnes concernées |
 |-----------------|-----------------|-----------------|------------------|
 | 5.              | Gestion de documents justificatifs | Partage avec des tiers des documents et des informations d'identification et d'authentification stockés avec des tiers | Consentement    |
 |-----------------|-----------------|-----------------|------------------|
-| 6.              |                 |                 | Exécution des contrats et exécution des mesures précontractuelles prises à la demande des personnes concernées  |
+| 6.              | Gestion de documents justificatifs | Partage avec des tiers des documents et des informations d'identification et d'authentification stockés avec des tiers | Exécution des contrats et exécution des mesures précontractuelles prises à la demande des personnes concernées  |
 |-----------------|-----------------|-----------------|------------------|
 | 7.              | Gestion des données de connexion (Enregistrement du mot de passe de connexion associé à chaque compte client ;<br>Enregistrement des date et heure de connexion et de déconnexion de l'utilisateur;<br>Enregistrement des date et heure d'ajout, de modification ou de suppression des documents et des informations d'identification et d'authentification)  | Non répudiation des transactions réalisées au moyen des documents et des informations d'identification et d'authentification enregistrés par l'utilisateur<br>Preuve dans le cadre de procédures juridiques ou judiciaires pour lesquelles la production des données de connexion est demandée | Exécution des contrats et exécution des mesures précontractuelles prises à la demande des personnes concernées  |
 |-----------------|-----------------|-----------------|------------------|
-| 8.              | Gestion de l'identité numérique |                 | Exécution des contrats et exécution des mesures précontractuelles prises à la demande des personnes concernées  |
+| 8.              | Gestion de l'identité numérique | Non répudiation des transactions réalisées au moyen des documents et des informations d'identification et d'authentification enregistrés par l'utilisateur<br>Preuve dans le cadre de procédures juridiques ou judiciaires pour lesquelles la production des données de connexion est demandée | Exécution des contrats et exécution des mesures précontractuelles prises à la demande des personnes concernées  |
 |-----------------|-----------------|-----------------|------------------|
 
 # 6. Les destinataires de vos données
@@ -875,13 +875,13 @@ ______
 |-----------------|----------------------|-----------------|-----------------------|
 | 1.              | Identification des personnes | Gestion de l'activation de votre compte client  | Durée d'existence de votre compte client  |
 |-----------------|----------------------|-----------------|-----------------------|
-| 2.              |                 | Stockage, mise à jour et suppression des documents et d'informations d'identification et d'authentification  | Jusqu'à la suppression de vos données et au plus pour toute la durée d'existence de votre compte client  |
+| 2.              | Identification des personnes | Stockage, mise à jour et suppression des documents et d'informations d'identification et d'authentification  | Jusqu'à la suppression de vos données et au plus pour toute la durée d'existence de votre compte client  |
 |-----------------|----------------------|-----------------|-----------------------|
-| 3.              |                 | Capture de l'empreinte de quatre des doigts de l'une des mains et calcul du gabarit correspondant  | Durée d'existence de votre compte client  |
+| 3.              | Identification des personnes | Capture de l'empreinte de quatre des doigts de l'une des mains et calcul du gabarit correspondant  | Durée d'existence de votre compte client  |
 |-----------------|----------------------|-----------------|-----------------------|
-| 4.              |                 | Partage des documents et d'informations d'identification et d'authentification stockés avec des tiers  | 24 heures à compter de l'enregistrement de votre consentement à chaque demande de partage  |
+| 4.              | Identification des personnes | Partage des documents et d'informations d'identification et d'authentification stockés avec des tiers  | 24 heures à compter de l'enregistrement de votre consentement à chaque demande de partage  |
 |-----------------|----------------------|-----------------|-----------------------|
-| 5.              |                 | Création d'une identité numérique  | Durée d'existence de votre compte client |
+| 5.              | Identification des personnes | Création d'une identité numérique  | Durée d'existence de votre compte client |
 |-----------------|----------------------|-----------------|-----------------------|
 | 6.              | Mot de passe de connexion associé à chaque compte client<br>Date et heure de connexion et de déconnexion de l'utilisateur<br>Date et heure d'ajout, de modification ou de suppression des documents et des informations d'identification et d'authentification | Non répudiation des transactions<br>Preuve des transactions | Durée d'existence de votre compte client augmentée d'une durée de 7 ans |
 |-----------------|----------------------|-----------------|-----------------------|

@@ -1,14 +1,10 @@
-
 # **A3BC Group**
 
-[1. **Terms of Use**](#contents-terms-of-use)
+[1. **Terms of Use**](#terms-of-use)
 
-[1. **External Pricacy Policy**](#contents-external-privacy-policy)
+[1. **External Pricacy Policy**](#external-privacy-policy)
 
-# **Mobile Application**
-
-
-## **CONTENTS TERMS OF USE**
+## **TERMS OF USE**
 
 [1. Preamble](#1-preamble)
 
@@ -631,7 +627,7 @@ A3BC Group's Terms of Use, updated version: 01 04 2022.
 ______
 
 
-## **CONTENTS EXTERNAL PRIVACY POLICY**
+## **EXTERNAL PRIVACY POLICY**
 
 [1. Introduction](#1-introduction)
 
@@ -639,23 +635,23 @@ ______
 
 [3. Data are collected for legitimate and proportionate purposes](#3-data-are-collected-for-legitimate-and-proportionate-purposes)
 
-[4. What data do we process?](#4-what-data-do-we-process?)
+[4. What data do we process?](#4-what-data-do-we-process)
 
-[5. What are the legal bases and purposes of our processing?](#5-what-are-the-legal-bases-and-purposes-of-our-processing?)
+[5. What are the legal bases and purposes of our processing?](#5-what-are-the-legal-bases-and-purposes-of-our-processing)
 
-[6. Who are the recipients of your data?](#6-who-are-the-recipients-of-your-data?)
+[6. Who are the recipients of your data?](#6-who-are-the-recipients-of-your-data)
 
-[7. Do we transfer your data?](#7-do-we-transfer-your-data?)
+[7. Do we transfer your data?](#7-do-we-transfer-your-data)
 
-[8. How long are we keeping your data?](#8-how-long-are-we-keeping-your-data?)
+[8. How long are we keeping your data?](#8-how-long-are-we-keeping-your-data)
 
-[9. How do we ensure the security of your personal data?](#9-how-do-we-ensure-the-security-of-your-personal-data?)
+[9. How do we ensure the security of your personal data?](#9-how-do-we-ensure-the-security-of-your-personal-data)
 
-[10. Do we use processors?](#10-do-we-use-processors?)
+[10. Do we use processors?](#10-do-we-use-processors)
 
-[11. Do we use cookies?](#11-do-we-use-cookies?)
+[11. Do we use cookies?](#11-do-we-use-cookies)
 
-[12. What are your rights?](#12-what-are-your-rights?)
+[12. What are your rights?](#12-what-are-your-rights)
 
 [12.1 Your right of access](#121-your-right-of-access)
 
@@ -675,7 +671,7 @@ ______
 
 [12.9 Your right to give post-mortem instructions](#129-your-right-to-give-post-mortem-instructions)
 
-[12.10 How to exercise your rights?](#1210-how-to-exercise-your-rights?)
+[12.10 How to exercise your rights?](#1210-how-to-exercise-your-rights)
 
 [13. Change to this document](#13-change-to-this-document)
 

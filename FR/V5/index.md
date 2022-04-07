@@ -1,16 +1,10 @@
-## **sommaire_politique_externe_protection_des_donnees_a_caractere_personnel**
-
 # **A3BC Group**
 
-[1. **Conditions générales d'utilisation**](#sommaire-conditions-générales-dutilisation)
+[1. **Conditions générales d'utilisation**](#conditions-générales-dutilisation)
 
-[1. **Politique externe protection des données à caractère personnel**](#sommaire-politique-externe-protection-des-données-à-caractère-personnel)
-# **Conditions Générales d'Utilisation**
+[1. **Politique externe protection des données à caractère personnel**](#politique-externe-protection-des-données-à-caractère-personnel)
 
-# **Application mobile**
-
-
-## **SOMMAIRE CONDITIONS GÉNÉRALES D'UTILISATION**
+## **CONDITIONS GÉNÉRALES D'UTILISATION**
 
 [1. Préambule](#1-préambule)
 
@@ -710,7 +704,7 @@ du 01 04 2022
 ______
 
 
-## **SOMMAIRE POLITIQUE EXTERNE PROTECTION DES DONNÉES À CARACTÈRE PERSONNEL**
+## **POLITIQUE EXTERNE PROTECTION DES DONNÉES À CARACTÈRE PERSONNEL**
 
 [1. Introduction](#1-introduction)
 
@@ -736,11 +730,11 @@ ______
 
 [12. Les droits qui vous sont reconnus](#12-les-droits-qui-vous-sont-reconnus)
 
-[12.1 Votre droit d'accès](#121-votre-droit-d'accès)
+[12.1 Votre droit d'accès](#121-votre-droit-daccès)
 
 [12.2 Votre droit à la rectification de vos données](#122-votre-droit-à-la-rectification-de-vos-données)
 
-[12.3 Votre droit à l'effacement de vos données](#123-votre-droit-à-l'effacement-de-vos-données)
+[12.3 Votre droit à l'effacement de vos données](#123-votre-droit-à-leffacement-de-vos-données)
 
 [12.4 Votre droit à la limitation des traitements de données](#124-votre-droit-à-la-limitation-des-traitements-de-données)
 

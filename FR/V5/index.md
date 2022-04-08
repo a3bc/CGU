@@ -1043,7 +1043,7 @@ ______
 # 12.10 Les modalités d'exercice de vos droits
 
 1\. Vous les droits énumérés ci-avant peuvent être exercés à l'adresse
-    électronique suivante contact.trustme\@a3bc.io ou par courrier
+    électronique suivante contact.trustme\@a3bc.org ou par courrier
     postal envoyé à l'adresse suivante, A3BC Group chez Teamwill, Tour
     EQHO, 2 avenue Gambetta 92400 Courbevoie, en justifiant de votre
     identité par tous moyens.

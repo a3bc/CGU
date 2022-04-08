@@ -938,7 +938,7 @@ ______
 
 1\. You may exercise the rights listed above by sending a request,
     together with a document proving your identity by any means, by
-    email to <contact.trustme@a3bc.io> or by post to A3BC Group chez
+    email to contact.trustme@a3bc.org or by post to A3BC Group chez
     Teamwill, Tour EQHO, 2 avenue Gambetta 92400 Courbevoie.
 
 # 13. Change to this document

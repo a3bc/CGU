@@ -2,7 +2,7 @@
 
 [1. **Terms of Use**](#terms-of-use)
 
-[1. **External Pricacy Policy**](#external-privacy-policy)
+[2. **External Pricacy Policy**](#external-privacy-policy)
 
 ## **TERMS OF USE**
 

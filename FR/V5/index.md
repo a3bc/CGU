@@ -2,7 +2,7 @@
 
 [1. **Conditions générales d'utilisation**](#conditions-générales-dutilisation)
 
-[1. **Politique externe protection des données à caractère personnel**](#politique-externe-protection-des-données-à-caractère-personnel)
+[2. **Politique externe protection des données à caractère personnel**](#politique-externe-protection-des-données-à-caractère-personnel)
 
 ## **CONDITIONS GÉNÉRALES D'UTILISATION**
 
@@ -28,7 +28,7 @@
 
 [6.3 Création d'un compte par l'Utilisateur](#63-création-dun-compte-par-lutilisateur)
 
-[6.4 Création d’une identité numérique de l’Utilisateur](#64-creation-dune-identite-numerique-de-lutilisateur)
+[6.4 Création d’une identité numérique de l’Utilisateur](#64-création-dune-identité-numérique-de-lutilisateur)
 
 [6.5 Identifiant et mot de passe](#65-identifiant-et-mot-de-passe)
 

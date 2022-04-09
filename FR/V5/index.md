@@ -147,7 +147,7 @@
     autre contenu présent au sein de l'Application et/ou tout autre
     élément composant l'Application.
 
--   « Donnée personnelle » :** **désigne toutes les données se
+-   « Donnée personnelle » : désigne toutes les données se
     rapportant à une personne physique identifiée ou identifiable,
     directement ou indirectement au sens de la réglementation en vigueur
     applicable au traitement de données à caractère personnel et, en

@@ -305,7 +305,7 @@ séjour.
 
 4\. La société A3BC Group se réserve le droit de modifier les conditions
     techniques liées à l'identification et de substituer le mot de passe
-    tout autre technologie qu'elle estimera nécessaire.
+    à tout autre technologie qu'elle estimera nécessaire.
 
 5\. L'Utilisateur a la possibilité de modifier son mot de passe à tout
     moment au sein de l'application.
@@ -328,7 +328,7 @@ séjour.
 9\. Si l'Utilisateur constate ou suspecte une utilisation non autorisée
     ou frauduleuse de son identifiant et mot de passe ou toute brèche de
     sécurité, il doit alerter immédiatement la société A3BC Group via le
-    formulaire contact figurant dans l'application.
+    formulaire de contact figurant dans l'application.
 
 # 7. Description de l'Application 
 
@@ -343,7 +343,7 @@ séjour.
     société A3BC Group accessible sur le cloud et peuvent, si
     l'Utilisateur le souhaite, être également conservés sur son
     téléphone mobile (à l'exception, cependant, du gabarit de
-    l'empreinte digitale de quatre doigts d'une main)..
+    l'empreinte digitale de quatre doigts d'une main).
 
 ## 7.2 Les services associés 
 
@@ -401,7 +401,7 @@ séjour.
 
 6\. Lorsque l'Utilisateur saisit des informations le concernant ou
     télécharge un document ou un justificatif lui permettant d'établir
-    son identité il s'engage à ce que ces éléments soient complets,
+    son identité, il s'engage à ce que ces éléments soient complets,
     exacts, à jour et le concernent expressément.
 
 7\. Si l'Utilisateur accède à des informations sur son compte et les
@@ -413,11 +413,11 @@ séjour.
     Group sur l'ensemble des documents téléchargés et conservés sur
     l'application mobile ou sur le cloud de la société A3BC Group :
 
--   pour la durée de validité de son compte, et
+-   pour la durée de validité de son compte;
 
 -   pour les seuls besoins relatifs à des demandes d'accès de tiers qui
     transiterait par l'Application et après validation explicite de
-    l'Utilisateur .
+    l'Utilisateur.
 
 2\. Concernant l'utilisation du gabarit de l'empreinte digitale de
     quatre doigts de ses mains, elle ne peut se faire qu'après le
@@ -602,8 +602,7 @@ séjour.
 5\. Pour en savoir plus sur ce traitement de donnée et sur la
     possibilité de retirer son consentement à tout moment, les
     Utilisateurs sont invités à se reporter à la Politique de protection
-    des données personnelles (LIEN VERS LA POLITIQUE DE PROTECTION DES
-    DONNEES).
+    des données personnelles ci-après.
 
 # 13. Sécurité 
 
@@ -663,20 +662,20 @@ séjour.
 
 ## 14.5 Intégralité
 
-2\. Les présentes conditions d'utilisation expriment l'intégralité des
+1\. Les présentes conditions d'utilisation expriment l'intégralité des
     obligations des Parties.
 
 ## 14.6 Preuve-Notification
 
-3\. Toute notification ou communication entre l'Utilisateur et la
+1\. Toute notification ou communication entre l'Utilisateur et la
     société A3BC Group peut être réalisée par tout moyen électronique.
     Ainsi l'Utilisateur reconnait être parfaitement informé que la
     société A3BC Group pourra communiquer à l'Utilisateur des
-    informations par tout moyen électronique et dématérialisée pouvant
-    être directement ou indirectement être rattaché au compte de
+    informations par tout moyen électronique et dématérialisé pouvant
+    être directement ou indirectement rattaché au compte de
     l'Utilisateur.
 
-4\. L'archivage des présentes CGU doit est effectué sur un support
+2\. L'archivage des présentes CGU doit être effectué sur un support
     fiable et durable pouvant être produit à titre de preuve.
 
 ## 14.7 Langue
@@ -799,7 +798,7 @@ ______
 -   le mot de passe de connexion associé à chaque compte client ;
 
 -   les date et heure de connexion et de déconnexion de
-    l'utilisateur ;les date et heure d'ajout, de modification ou de
+    l'utilisateur; les date et heure d'ajout, de modification ou de
     suppression des documents et des informations d'identification et
     d'authentification.
 

@@ -82,7 +82,7 @@
 
 # 1. Préambule 
 
-1\.  L'Application mobile TRUSTME est éditée par la société A3BC Group
+1\.  L'Application mobile TRUSTME est éditée par la société A3BC Group,
     société par actions simplifiée au capital de 718 503 euros,
     immatriculée au Registre du Commerce et des Sociétés de Paris, sous
     le numéro 839 604 576, dont le siège social est situé 15 rue La
@@ -109,9 +109,9 @@
 -   « Anomalie » : désigne tout dysfonctionnement, défaut, erreur ou
     bug, reproductible et documenté, de l'Application et notamment (i)
     toute non-conformité aux spécifications fonctionnelles et techniques
-    définies par A3BC Group avec l'éditeur de l'Application (ii) tout
+    définies par A3BC Group avec l'éditeur de l'Application (ii), tout
     dysfonctionnement qui, unitairement ou cumulé, interdit l'accès, ou
-    à des répercussions sur l'utilisation de tout ou partie des
+    a des répercussions sur l'utilisation de tout ou partie des
     fonctionnalités de l'Application. Les Anomalies sont qualifiées de :
 
     -   « Anomalie bloquante » : désigne tout Anomalie rendant
@@ -211,7 +211,7 @@
     vérifier la compatibilité de son matériel avec l'Application.
 
 2\. A ce jour, l'Application TRUSTME est compatible avec le logiciel
-    d'exploitation Android 12 et ses versions postérieures.
+    d'exploitation Android 13 et ses versions antérieures.
 
 # 6. Conditions d'accès 
 
@@ -230,7 +230,7 @@
 ## 6.2 Accessibilité de l'Application
 
 1\. Toutefois, la société A3BC Group se réserve le droit, sans préavis,
-    ni indemnité, de fermer temporairement ou définitivement l'accès
+    ni indemnité, de fermer temporairement ou définitivement l'accès à
     tout ou partie de l'Application ou l'accès à un ou plusieurs de ses
     services, notamment pour effectuer une mise à jour, des opérations
     de maintenance, des modifications ou changements sur les méthodes
@@ -258,11 +258,11 @@
 2\. L'activation du compte par l'Utilisateur comprend les étapes
     suivantes :
 
--   étape 1 : l'Utilisateur valide et accepte les CGU en cochant la case
-    prévue à cet effet ;
+-   étape 1 : l'Utilisateur valide et accepte les CGU en cliquant sur le bouton
+    prévu à cet effet ;
 
 -   étape 2 : l'Utilisateur complète le formulaire d'inscription dont il
-    doit remplir tous les champs obligatoires identifié par un
+    doit remplir tous les champs obligatoires identifiés par un
     astérisque  ;
 
 -   étape 3 : l'Utilisateur est invité à saisir un numéro de téléphone
@@ -271,7 +271,7 @@
 
 -   étape 4 : l'Utilisateur est invité à choisir un mot de passe
     répondant aux besoins de sécurisation ou, s'il y consent, à fournir
-    une empreinte biométrique, et ce dans les règles fixés par la
+    une empreinte biométrique, et ce dans les règles fixées par la
     société A3BC Group ;
 
 3\. L'Utilisateur s'engage à ne renseigner que des informations le
@@ -504,7 +504,7 @@ séjour.
 3\. L\'Utilisateur s\'engage à respecter l\'intégralité des droits de
     tiers, dont les contenus sont présents sur l'Application.
 
-# 10. Liens vers d'autres applications et site web 
+# 10. Liens vers d'autres applications et sites web 
 
 1\. L'Application peut contenir des hyperliens donnant accès à des
     applications et sites web de tiers.

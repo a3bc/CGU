@@ -890,7 +890,7 @@ ______
 1\. Nous accordons une importance particulière à la sécurité des données
     personnelles.
 
-2\. Il a mis en place des mesures techniques et organisationnelles
+2\. Il a été mis en place des mesures techniques et organisationnelles
     adaptées au degré de sensibilité des données personnelles, en vue
     d'assurer l'intégrité et la confidentialité des données et de les
     protéger contre toute intrusion malveillante, toute perte,

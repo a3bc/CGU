@@ -2,7 +2,7 @@
 
 [1. **Conditions générales d'utilisation**](#conditions-générales-dutilisation)
 
-[2. **Politique externe protection des données à caractère personnel**](#politique-externe-protection-des-données-à-caractère-personnel)
+[2. **Politique externe de protection des données à caractère personnel**](#politique-externe-de-protection-des-données-à-caractère-personnel)
 
 ## **CONDITIONS GÉNÉRALES D'UTILISATION**
 

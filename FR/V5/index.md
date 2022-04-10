@@ -114,11 +114,11 @@
     a des répercussions sur l'utilisation de tout ou partie des
     fonctionnalités de l'Application. Les Anomalies sont qualifiées de :
 
-    -   « Anomalie bloquante » : désigne tout Anomalie rendant
+    -   « Anomalie bloquante » : désigne toute Anomalie rendant
         impossible l'utilisation des fonctionnalités principales de
         l'Application
 
-    -   « Anomalie non bloquante » : désigne tout Anomalie n'empêchant
+    -   « Anomalie non bloquante » : désigne toute Anomalie n'empêchant
         pas de poursuivre l'exploitation complète continue et
         ininterrompue de l'Application dans ses fonctionnalités
         principales.
@@ -305,7 +305,7 @@ séjour.
 
 4\. La société A3BC Group se réserve le droit de modifier les conditions
     techniques liées à l'identification et de substituer le mot de passe
-    à tout autre technologie qu'elle estimera nécessaire.
+    à toute autre technologie qu'elle estimera nécessaire.
 
 5\. L'Utilisateur a la possibilité de modifier son mot de passe à tout
     moment au sein de l'application.

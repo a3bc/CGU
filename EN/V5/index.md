@@ -213,7 +213,7 @@ of use.
 
 1\. However, A3BC Group reserves the right, without notice or
     compensation, to temporarily or permanently close the access to
-    Application or the access to one or more of its services for the
+    the application or the access to one or more of its services for the
     purposes of performing operations such as updates, maintenance,
     modifications or changes to the operational procedures, servers, and
     access hours.
@@ -389,7 +389,7 @@ of use.
     advertising or product sales;
 
 -   you must not commit any act of counterfeiting, reproduce, download,
-    perform, or modify all or part of Application;
+    perform, or modify all or part of the Application;
 
 -   you must not hinder or alter the functioning of the Application;
 
@@ -521,8 +521,7 @@ of use.
     data as a controller.
 
 2\. To learn more about processing of personal data and the extent of
-    your rights, please read the Privacy Policy (LINK TO PRIVACY
-    POLICY).
+    your rights, please read the Privacy Policy on our website.
 
 3\. As part of the management of Users' personal data, A3BC Group
     records the User's actions performed exclusively in the Application
@@ -536,8 +535,7 @@ of use.
     when collecting and using this data for authentication purposes.
 
 5\. To learn more about this data processing and how to withdraw consent
-    at any time, please read the Privacy Policy (LINK TO PRIVACY
-    POLICY).
+    at any time, please read the Privacy Policy on our website.
 
 # 13. Security
 
@@ -631,9 +629,9 @@ ______
 
 [1. Introduction](#1-introduction)
 
-[2. Data are collected fairly and in a transparent manner](#2-data-are-collected-fairly-and-in-a-transparent-manner)
+[2. Data is collected fairly and in a transparent manner](#2-data-is-collected-fairly-and-in-a-transparent-manner)
 
-[3. Data are collected for legitimate and proportionate purposes](#3-data-are-collected-for-legitimate-and-proportionate-purposes)
+[3. Data is collected for legitimate and proportionate purposes](#3-data-is-collected-for-legitimate-and-proportionate-purposes)
 
 [4. What data do we process?](#4-what-data-do-we-process)
 
@@ -683,7 +681,7 @@ ______
     easily accessible form, to help you understand how your data are
     processed.
 
-# 2. Data are collected fairly and in a transparent manner
+# 2. Data is collected fairly and in a transparent manner
 
 1\.  In order to ensure fair and transparent data collection, we provide
     information on each processing operation we carry out by means of
@@ -692,7 +690,7 @@ ______
 2\.  Data are collected fairly. No data is collected without the
     knowledge or information of the data subjects.
 
-# 3. Data are collected for legitimate and proportionate purposes
+# 3. Data is collected for legitimate and proportionate purposes
 
 1\.  When we process data, we do so for specific purposes: each data
     processing carried out by us has a legitimate, specified and
@@ -702,8 +700,8 @@ ______
     use only data that are adequate, relevant and limited to what is
     necessary in relation to the purposes for which they are processed.
 
-3\.  We ensure that the data are kept up to date and take steps to ensure
-    that data that are inaccurate are erased or rectified.
+3\.  We ensure that the data is kept up to date and take steps to ensure
+    that data that is inaccurate is erased or rectified.
 
 # 4. What data do we process?
 
@@ -775,16 +773,16 @@ ______
 
 # 8. How long are we keeping your data?
 
-1\. We ensure that data are kept in a form which permits identification
+1\. We ensure that data is kept in a form which permits identification
     of data subjects for no longer than is necessary for the purposes
     for which the data are processed.
 
 2\. The periods for which we keep your personal data are proportionate
-    to the purposes for which your data were collected.
+    to the purposes for which your data was collected.
 
 3\. More precisely, our data storage policy is organised as follows:
 
-| No.             | Category of data | purposes       | storage period  |
+| No.             | Category of data | Purposes       | Storage period  |
 |-----------------|-----------------|-----------------|-----------------|
 | 1.              | Identification of individuals | Managing the activation of your customer account | Duration of your customer account  |
 |-----------------|-----------------|-----------------|-----------------|

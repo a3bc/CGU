@@ -300,7 +300,7 @@ séjour.
 
 3\. Il est expressément rappelé que la société A3BC Group ne demande
     jamais, et pour quelque raison que ce soit, à l'Utilisateur de lui
-    communiquer son mot de passe et tout demande en ce sens devra être
+    communiquer son mot de passe et toute demande en ce sens devra être
     considérée comme une demande frauduleuse.
 
 4\. La société A3BC Group se réserve le droit de modifier les conditions
@@ -416,7 +416,7 @@ séjour.
 -   pour la durée de validité de son compte;
 
 -   pour les seuls besoins relatifs à des demandes d'accès de tiers qui
-    transiterait par l'Application et après validation explicite de
+    transiteraient par l'Application et après validation explicite de
     l'Utilisateur.
 
 2\. Concernant l'utilisation du gabarit de l'empreinte digitale de
@@ -510,7 +510,7 @@ séjour.
     applications et sites web de tiers.
 
 2\. L'Utilisateur est formellement informé que les applications et sites
-    auxquels ils peuvent accéder par l'intermédiaire des liens
+    auxquel il peut accéder par l'intermédiaire des liens
     hypertextes n'appartiennent pas à la société A3BC Group.
 
 3\. La société A3BC Group décline toute responsabilité quant au contenu
